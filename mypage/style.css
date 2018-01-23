@@ -1,0 +1,91 @@
+.flex-container {
+  display: flex;
+  width: 700px;
+  height: 100px;
+  background-color: white;
+}
+
+.flex-itemred {
+  background-color: red;
+  width: 30%;
+  height: 100px;
+  margin: 0px;
+}
+
+.flex-itemorange {
+  background-color: orange;
+  width: 30%;
+  height: 100px;
+  margin: 0px;
+}
+
+.flex-itemyellow {
+  background-color: yellow;
+  width: 30%;
+  height: 100px;
+  margin: 0px;
+}
+
+.flex-itemgreen {
+  background-color: green;
+  width: 30%;
+  height: 100px;
+  margin: 0px;
+}
+
+.flex-itemskyblue {
+  background-color: skyblue;
+  width: 30%;
+  height: 100px;
+  margin: 0px;
+}
+
+.flex-itemblue {
+  background-color: blue;
+  width: 30%;
+  height: 100px;
+  margin: 0px;
+}
+
+.flex-itempurple {
+  background-color: purple;
+  width: 30%;
+  height: 100px;
+  margin: 0px;
+}
+
+.secondrow {
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+}
+
+.thirdrow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
+
+.fourthrow {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+
+.fifthrow {
+  background-color: skyblue;
+  width: 100px;
+  height: 100px;
+}
+
+.sixthrow {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.seventhrow {
+  background-color: purple;
+  width: 100px;
+  height: 100px;
+  margin: 0px;
